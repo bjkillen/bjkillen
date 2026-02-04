@@ -11,6 +11,9 @@
     - https://github.com/bjkillen/GamesWorkshopCalculator.Common
     - https://github.com/bjkillen/WahapediaDatasheetParser
 
+  - AI/ ML Project Portfolio 🤖
+    - https://olympus.mygreatlearning.com/eportfolio
+
   - C# Projects
     - https://github.com/bjkillen/TemperatureThresholdAlerter
     - https://github.com/bjkillen/CalculatorCodingChallenge

@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on FitLift
+- 🔭 I’m currently working on FitLift, a revenue generating startup!
+  - https://www.fitlift.com/
 - 🌱 I’m currently learning React, Node.js and AI deployment in Go!
 - 👯 I’m looking to collaborate on anything really, just drop me a line
 

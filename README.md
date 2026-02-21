@@ -13,7 +13,7 @@
     - https://github.com/bjkillen/WahapediaDatasheetParser
 
   - AI/ ML Project Portfolio 🤖
-    - https://olympus.mygreatlearning.com/eportfolio](https://www.mygreatlearning.com/eportfolio/blaine-killen
+    - https://www.mygreatlearning.com/eportfolio/blaine-killen
 
   - C# Projects
     - https://github.com/bjkillen/TemperatureThresholdAlerter
